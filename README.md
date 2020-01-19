@@ -11,5 +11,5 @@ Dependencies
 To dos:
 - [x] Create function to search wiki pages if different from name
 - [x] Create wiki pages extractor
-- [ ] Summarize info from wiki page
-- [ ] Export to excel
+- [x] Summarize info from wiki page
+- [x] Export to excel
