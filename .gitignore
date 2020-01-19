@@ -42,4 +42,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Office Documents
+*.xlsx
+
 # End of https://www.gitignore.io/api/windows,jupyternotebooks
