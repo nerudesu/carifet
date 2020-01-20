@@ -45,4 +45,7 @@ $RECYCLE.BIN/
 # Office Documents
 *.xlsx
 
+# Others
+*.google-cookie
+
 # End of https://www.gitignore.io/api/windows,jupyternotebooks
